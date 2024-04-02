@@ -1,0 +1,117 @@
+
+MASTER
+
+commit 9740cbac7846f44b283d3087cec63b9ce4a7c761 (HEAD -> master, origin/master)
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:32:06 2024 +0200
+
+    Add starter code
+
+commit 83a9ed6fed3181884153d3aac4c6c8c6fcf3b6ea
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:29:31 2024 +0200
+
+    Initial commit
+
+*************По спојување со bug1 и bug2**************** 
+
+commit 7daa7673e7558eddbeb1778aacc4e93b9427887a (HEAD -> master, bug2)
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:40:32 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 9896c64bb20864c445ef91a3346b43747bc577b9
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:36:52 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 3f4ae1962111f1281b413e354acae34fe44ef569 (origin/master, origin/bug1, bug1)
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:38:02 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ecdea12b854dd427a67f9c0b011d54f33a007f59
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:35:35 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 9740cbac7846f44b283d3087cec63b9ce4a7c761
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:32:06 2024 +0200
+
+    Add starter code
+
+commit 83a9ed6fed3181884153d3aac4c6c8c6fcf3b6ea
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:29:31 2024 +0200
+
+    Initial commit
+
+-----------------------------------------------------------------------
+
+BUG1 
+
+commit 3f4ae1962111f1281b413e354acae34fe44ef569 (HEAD -> bug1)
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:38:02 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ecdea12b854dd427a67f9c0b011d54f33a007f59
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:35:35 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 9740cbac7846f44b283d3087cec63b9ce4a7c761 (origin/master, master)
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:32:06 2024 +0200
+
+    Add starter code
+
+commit 83a9ed6fed3181884153d3aac4c6c8c6fcf3b6ea
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:29:31 2024 +0200
+
+    Initial commit
+
+-----------------------------------------------------------------------
+
+BUG2
+
+commit 3196984c19de80611dad73fd1623307a4b7c99f0 (HEAD -> bug2)
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:40:32 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 265b8eded68bb94fb6e3cf5d4269eee3cedcde25
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:36:52 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 9740cbac7846f44b283d3087cec63b9ce4a7c761 (origin/master, master)
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:32:06 2024 +0200
+
+    Add starter code
+
+commit 83a9ed6fed3181884153d3aac4c6c8c6fcf3b6ea
+Author: Stefan Stojanov <stojanov.stefan@outlook.com>
+Date:   Tue Apr 2 02:29:31 2024 +0200
+
+    Initial commit
+
+***************По rebase master****************
+
+7daa767 (HEAD -> bug2, origin/master, origin/bug2, master) Call method makeBigStringFrom in main class
+9896c64 Fix wrong condition in makeBigStringFrom
+3f4ae19 (origin/bug1, bug1) Call method filterOddLengthStrings in main class
+ecdea12 Fix wrong condition in filterOddLengthStrings
+9740cba Add starter code
+83a9ed6 Initial commit
